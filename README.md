@@ -5,10 +5,16 @@ This project discusses the deployment of an algorithm for face mask recognition,
 ## Below is the folder structure of the project:
 
 **- Datasheets :** All the necessary datasheets of ZED Camera, Jetson TX2 board is added here.
+
 **- Images :** The necessary screenshots of the project are added here.
+
 **- Reports :** This folder contains reports, presentations and demonstration video of the project.
+
 **- Research_Papers :** A referred Research paper is added here for reference.
+
 **- Working_Codes :** This folder contains two other folder inside it.
-	**- Multi_Camera :** This contains codes related to multi camera with face mask detection codes as well.
-	**- Single_Camera :** This fodler contains codes to Object Detection, Distance Estimation and Zed camera init codes.
+
+	- Multi_Camera : This contains codes related to multi camera with face mask detection codes as well.
+	- Single_Camera : This fodler contains codes to Object Detection, Distance Estimation and Zed camera init codes.
+ 
 **- README.md :** This files explains briefly about the project and it's folder structure.
