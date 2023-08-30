@@ -15,6 +15,7 @@ This project discusses the deployment of an algorithm for face mask recognition,
 **- Working_Codes :** This folder contains two other folder inside it.
 
 **- Multi_Camera :** This contains codes related to multi camera with face mask detection codes as well.
+
 **- Single_Camera :** This fodler contains codes to Object Detection, Distance Estimation and Zed camera init codes.
  
 **- README.md :** This files explains briefly about the project and it's folder structure.
